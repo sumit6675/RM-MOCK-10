@@ -41,6 +41,86 @@
     "Amount": "25000",
     "Date": "2023-03-15",
     "id": 2
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Income",
+    "Category": "Refunds",
+    "Amount": "5246",
+    "Date": "2023-03-28",
+    "id": 3
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Income",
+    "Category": "Salary",
+    "Amount": "5246",
+    "Date": "2023-03-28",
+    "id": 4
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Income",
+    "Category": "Gifts",
+    "Amount": "5246",
+    "Date": "2023-03-28",
+    "id": 5
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Income",
+    "Category": "Other",
+    "Amount": "8642",
+    "Date": "2023-03-28",
+    "id": 6
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Food & Drinks",
+    "Amount": "10000",
+    "Date": "2023-03-28",
+    "id": 7
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Shopping",
+    "Amount": "5000",
+    "Date": "2023-03-20",
+    "id": 8
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Housing",
+    "Amount": "2500",
+    "Date": "2023-03-23",
+    "id": 9
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Bills",
+    "Amount": "1200",
+    "Date": "2023-03-07",
+    "id": 10
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Vehicle & Transport",
+    "Amount": "120",
+    "Date": "2023-03-22",
+    "id": 11
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Lifestyle",
+    "Amount": "12020",
+    "Date": "2023-03-30",
+    "id": 12
   }
 ]
 }
