@@ -1,3 +1,28 @@
 {
-  "users": []
+  "users": [
+  {
+    "Name": "eve",
+    "Email": "eve.holt@reqres.in",
+    "Password": "cityslicka",
+    "id": 1
+  },
+  {
+    "Name": "sumit chimkar",
+    "Email": "sumit@gmail.com",
+    "Password": "sumit@1257",
+    "id": 2
+  },
+  {
+    "Name": "Roshan Chimkar",
+    "Email": "roshan@gmail.com",
+    "Password": "Roshan@1257",
+    "id": 3
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Email": "rohit@gmail.com",
+    "Password": "rohit@1257",
+    "id": 4
+  }
+]
 }
