@@ -26,5 +26,21 @@
   }
 ],
 "TrackerData":[
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Income",
+    "Category": "Salary",
+    "Amount": "250000",
+    "Date": "2023-03-08",
+    "id": 1
+  },
+  {
+    "Name": "Rohit Chimkar",
+    "Type": "Expense",
+    "Category": "Bills",
+    "Amount": "25000",
+    "Date": "2023-03-15",
+    "id": 2
+  }
 ]
 }
