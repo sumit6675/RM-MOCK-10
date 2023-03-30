@@ -26,40 +26,5 @@
   }
 ],
 "TrackerData":[
-  {
-    "Type": "Income",
-    "Category": "Salary",
-    "Amount": "10000",
-    "Date": "2023-03-05",
-    "id": 1
-  },
-  {
-    "Type": "Expense",
-    "Category": "Housing",
-    "Amount": "3500",
-    "Date": "2023-03-07",
-    "id": 2
-  },
-  {
-    "Type": "Income",
-    "Category": "Gifts",
-    "Amount": "1500",
-    "Date": "2023-03-15",
-    "id": 3
-  },
-  {
-    "Type": "Expense",
-    "Category": "Bills",
-    "Amount": "450",
-    "Date": "2023-03-16",
-    "id": 4
-  },
-  {
-    "Type": "Expense",
-    "Category": "Vehicle & Transport",
-    "Amount": "1200",
-    "Date": "2023-03-29",
-    "id": 5
-  }
 ]
 }
